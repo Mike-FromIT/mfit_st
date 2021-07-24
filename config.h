@@ -122,7 +122,7 @@ static unsigned int defaultcs = 256;
 static unsigned int defaultrcs = 257;
 
 
-unsigned int alpha = 150;
+unsigned int alpha = 225;
 
 /*
  * Default shape of cursor
