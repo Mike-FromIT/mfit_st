@@ -1,3 +1,8 @@
+Mike-FromIT's build of st
+
+Requires installation of the "ttf-liberation" font package
+
+================================================================
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
